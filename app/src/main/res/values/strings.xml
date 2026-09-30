@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ghost Detector 3000</string>
+    <string name="title_tagline">PARANORMAL ENTITY SCANNER</string>
+    <string name="disclaimer_warning">⚠️ For entertainment &amp; simulation purposes only.</string>
+    <string name="btn_start_hunt">👻 START GHOST HUNT</string>
+    <string name="btn_stop_hunt">⏹️ FINISH HUNT</string>
+    <string name="btn_capture_evidence">📸 CAPTURE EVIDENCE</string>
+    <string name="btn_view_history">📜 PARANORMAL DOSSIER</string>
+    <string name="btn_run_away">🏃 RUN AWAY!</string>
+    
+    <!-- Sensor Labels -->
+    <string name="sensor_magnetometer">🧲 Magnetic Field (EMF)</string>
+    <string name="sensor_accelerometer">📱 Kinetic Motion</string>
+    <string name="sensor_gyroscope">🔄 Vortex Rotation</string>
+    <string name="sensor_light">💡 Ambient Illumination</string>
+    <string name="sensor_sound">🎤 Acoustic EVP Level</string>
+    <string name="sensor_proximity">📏 Spatial Proximity</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_scanner">Scanner</string>
+    <string name="nav_history">Dossier</string>
+    <string name="nav_about">Specs</string>
+</resources>
